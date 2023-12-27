@@ -1,3 +1,7 @@
+#Note: This is only for my school project, any credit goes directly to the original publishers of this project
+Link to the original project: https://github.com/HuantWang/FUNDED_NISL
+
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/HuantWang/SUPERSONIC/graphs/commit-activity)  [![License CC-BY-4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://github.com/HuantWang/SUPERSONIC/blob/master/LICENSE)  [![Documentation Status](https://readthedocs.org/projects/supersonic/badge/?version=latest)](https://supersonic.readthedocs.io/en/latest/?badge=latest)
 
 <p align=center>
