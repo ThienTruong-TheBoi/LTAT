@@ -1,0 +1,4 @@
+Setting random seed 0.
+Restoring best model state from ./trained_model/GGNN_GraphBinaryClassification__2023-12-08_03-21-11_f1 = 0.727_best.pkl.
+== Running on test dataset
+Loading data from ../data/data/data/sample_test/tem_CWE-074/ast.
